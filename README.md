@@ -30,3 +30,7 @@ To convert the file run the python script
 `python BB-to-xterm.py /path/to/your/ascii.bbcode`  
 this will print the result in to the console. to save you can just pipe the data to file  
 `python BB-to-xterm.py /path/to/your/ascii.bbcode >> output.ascii`  
+
+## faq
+#### sauce for example?
+https://www.reddit.com/r/Saber/comments/3nzufs/saber_render/
