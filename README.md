@@ -20,6 +20,11 @@ source venv/bin/activate.fish   # Fish
 pip install -r requirements.txt
 ```
 
+## Similar projects
+[Ascii-py](https://github.com/LeadSeason/Ascii-py)  
+[ColorMatch-cpp](https://github.com/LeadSeason/ColorMatch-cpp)  
+[ColorMatch-py](https://github.com/LeadSeason/ColorMatch-py)  
+
 ## Usage
 Use a terminal with xterm256 color support for best results.
 
